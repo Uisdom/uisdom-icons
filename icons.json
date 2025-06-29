@@ -1,0 +1,63 @@
+[
+  {
+    "name": "arrow-block-down",
+    "category": "Arrows",
+    "styles": [
+      "Regular",
+      "Light",
+      "Duocolor",
+      "Duotone",
+      "Solid",
+      "Outline"
+    ],
+    "tags": [
+      "arrow",
+      "arrows",
+      "arrowhead",
+      "block",
+      "directional",
+      "pointer",
+      "pointing",
+      "down"
+    ]
+  },
+  {
+    "name": "arrow-block-down-left",
+    "category": "Arrows",
+    "styles": [
+      "Regular",
+      "Light",
+      "Duocolor",
+      "Duotone",
+      "Solid",
+      "Outline"
+    ],
+    "tags": []
+  },
+  {
+    "name": "arrow-block-left",
+    "category": "Arrows",
+    "styles": [
+      "Regular",
+      "Light",
+      "Duocolor",
+      "Duotone",
+      "Solid",
+      "Outline"
+    ],
+    "tags": []
+  },
+  {
+    "name": "arrow-block-down-right",
+    "category": "Arrows",
+    "styles": [
+      "Regular",
+      "Light",
+      "Duocolor",
+      "Duotone",
+      "Solid",
+      "Outline"
+    ],
+    "tags": []
+  }
+]
